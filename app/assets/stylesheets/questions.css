@@ -37,6 +37,13 @@ div {
   color: #ffffff;
   margin-left: 20px; 
 }
+.title a {
+  font-size: 23px;
+  letter-spacing: 1.8px;
+  font-family: 'Roboto', sans-serif;
+  color: #FFFFFF;
+  text-decoration: none;
+}
 
 .post-button {
   width: 80px;
@@ -115,6 +122,10 @@ div {
   width: 500px;
   font-size: 14px;
 }
+.question-top__title a{
+  color: #000000;
+}
+解説
 
 .question-top__name {
   font-size: 12px;

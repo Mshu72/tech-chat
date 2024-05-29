@@ -18,7 +18,7 @@
         <div class='question'>
           <div class='question-top'>
             <div class='question-top__title'>
-              <%= question.title %>
+               <%= link_to question.title, question_path(question.id) %>
             </div>
             <div class='question-top__name'>
               <%= question.name %>
